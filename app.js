@@ -1,28 +1,4 @@
-/*console.log("hello");
 
-class Customer{
-    name;
-    age;
-    address;
-    constructor(name, age, address){
-        this.name = name;
-        this.age = age;
-        this.address = address;
-    }
-
-    setName(name){
-        this.name = name;
-    }
-
-    getName(){
-        return this.name;
-    }
-
-    
-}
-
-let Customer01 = new Customer("Dan", 24, "123 Main St");
-console.log(Customer01.getName());*/
 let count = 0;
 
 let randomNumber = Math.floor(Math.random() *10)+1;
