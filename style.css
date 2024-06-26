@@ -1,0 +1,29 @@
+.text{
+    text-align: center;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid black;
+    cursor: pointer;   
+    font-size: 40px; 
+    margin-left: 525px;
+}
+
+h1{
+    text-align: center; 
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid black;
+    cursor: pointer;
+    font-size: 50px;
+
+}
+
+h3{
+    text-align: center;
+    margin-top: 10px;
+    padding: 5px;
+    cursor: pointer;
+    font-size: 30px;
+}
