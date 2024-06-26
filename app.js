@@ -26,7 +26,6 @@ console.log(Customer01.getName());*/
 let count = 0;
 
 let randomNumber = Math.floor(Math.random() *10)+1;
-console.log(randomNumber);
 
 function guess(){
     count++;
@@ -48,6 +47,5 @@ function guess(){
 function restart(){
     count = 0;
     randomNumber = Math.floor(Math.random() *10)+1;
-    console.log(randomNumber);
     document.querySelector("input").value = "";
 }
